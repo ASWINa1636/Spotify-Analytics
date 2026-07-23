@@ -169,11 +169,11 @@ using Power BI Desktop.
 
 * By combining SQL, data visualization, and business intelligence techniques, this dashboard enables users to answer questions such as:
 
-> Which genres dominate the music collection?
-> Who are the most represented artists?
-> What proportion of songs contain explicit content?
-> Is there a relationship between musical characteristics and popularity?
-> Which albums contribute the most tracks?
+* > Which genres dominate the music collection?
+* > Who are the most represented artists?
+* > What proportion of songs contain explicit content?
+* > Is there a relationship between musical characteristics and popularity?
+* > Which albums contribute the most tracks?
 
 * This project demonstrates practical skills in SQL, SQLite, Power BI, data cleaning, KPI development, dashboard design, and data storytelling. It highlights the ability to transform raw data into meaningful business insights through interactive visualizations, making it suitable for portfolio presentation and real-world business intelligence scenarios. 
 ---
