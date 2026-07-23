@@ -47,10 +47,7 @@ Contains information about thousands of Spotify tracks including:
 | Power BI     | Dashboard Development     |
 | SQLite       | Database                  |
 | SQL          | Data Analysis             |
-| Python       | Data Preparation          |
-| Pandas       | Data Cleaning             |
-| Matplotlib   | Additional Visualizations |
-| Git & GitHub | Version Control           |
+
 
 ---
 
@@ -151,7 +148,7 @@ Treemap showing album contribution.
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Spotify-Analytics-Dashboard.git
+git clone https://github.com/ASWINa1636/Spotify-Analytics.git
 ```
 
 ### Open
